@@ -1,0 +1,15 @@
+.slider-btn {
+      color: #FFF;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 30px;
+      background: #D72050;
+      padding: 7px 20px;
+}
+
+.slider {
+      background: var(--Dark-07, #F3F3F3);
+      padding: 16px;
+}

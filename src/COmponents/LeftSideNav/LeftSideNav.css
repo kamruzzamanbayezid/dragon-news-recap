@@ -1,0 +1,18 @@
+.category {
+      color: var(--Dark-04, #9F9F9F);
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 30px;
+      display: block;
+      margin-bottom: 20px;
+      text-align: center;
+}
+
+.national-news {
+      border-radius: 5px;
+      border: 1px solid var(--Dark-06, #E7E7E7);
+      background: var(--Dark-06, #E7E7E7);
+      padding: 16px 0;
+}

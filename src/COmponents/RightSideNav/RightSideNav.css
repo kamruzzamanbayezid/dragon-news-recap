@@ -1,0 +1,21 @@
+.create-news-title {
+      color: #FFF;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 30px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 45px;
+      margin-bottom: 20px;
+}
+
+.create-news-para {
+      color: #FFF;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px;
+      margin-bottom: 30px;
+}

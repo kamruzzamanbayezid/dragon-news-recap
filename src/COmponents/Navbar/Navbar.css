@@ -1,0 +1,27 @@
+.is-not-active {
+      color: var(--Dark-03, #706F6F);
+      font-family: Poppins;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30px;
+}
+
+.is-active {
+      color: #D72050;
+      font-family: Poppins;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30px;
+}
+
+.nav-btn {
+      color: #FFF;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      padding: 5px 24px;
+}

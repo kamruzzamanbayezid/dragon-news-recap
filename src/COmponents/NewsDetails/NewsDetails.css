@@ -1,0 +1,70 @@
+.author-name {
+      color: var(--Dark-02, #403F3F);
+      font-family: Poppins;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 30px;
+}
+
+.author-pub {
+      color: var(--Dark-03, #706F6F);
+      font-family: Poppins;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+}
+
+.card-heading {
+      border-radius: 5px 5px 0px 0px;
+      border: 1px solid var(--Dark-07, #F3F3F3);
+      background: var(--Dark-07, #F3F3F3);
+      padding: 20px;
+}
+
+.card-title {
+      color: var(--Dark-02, #403F3F);
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 35px;
+      margin-bottom: 20px;
+}
+
+.card-details {
+      color: var(--Dark-03, #706F6F);
+      font-family: Poppins;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 26px;
+}
+
+.read-more {
+      background: var(--Linear, linear-gradient(90deg, #FF8C47 0%, #F75B5F 100.02%));
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-family: Poppins;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 26px;
+}
+
+.rating-num {
+      color: var(--Dark-03, #706F6F);
+      font-family: Poppins;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 26px;
+}
+
+.news-card {
+      border-radius: 5px;
+      border: 1px solid var(--Dark-06, #E7E7E7);
+      background: #FFF;
+}
